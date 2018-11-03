@@ -1,0 +1,5 @@
+font-family : Arial Lora
+ <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&amp;subset=vietnamese" rel="stylesheet">
+
+font-color : ea9f3e af9671
+back-ground : 382a14 201b0e 2d2413
